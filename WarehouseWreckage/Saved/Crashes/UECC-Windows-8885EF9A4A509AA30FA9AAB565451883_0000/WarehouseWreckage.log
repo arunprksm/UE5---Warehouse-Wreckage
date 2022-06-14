@@ -1,0 +1,1260 @@
+﻿Log file open, 06/14/22 19:21:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=7784)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WarehouseWreckage
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Games\Unreal Projects\Warehouse Wreckage\WarehouseWreckage\WarehouseWreckage.uproject" -EpicPortal -epicusername=RetroZeroSix -epicuserid=707a62a0322a43bebf221047c1c36cf5 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.675] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i3-6098P CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bced6a1444e860ece297eb8995b9d6fb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.389578
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8885EF9A4A509AA30FA9AAB565451883
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.675] (), CPU: Intel(R) Core(TM) i3-6098P CPU @ 3.60GHz, GPU: NVIDIA T600
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=RetroZeroSix -epicuserid=707a62a0322a43bebf221047c1c36cf5 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: E:/Games/Unreal/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.14-13.51.21:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.14-13.51.21:515][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.14-13.51.21:515][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.14-13.51.21:515][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.14-13.51.21:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.14-13.51.21:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.14-13.51.21:516][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.14-13.51.21:519][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.14-13.51.21:534][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.14-13.51.21:534][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.14-13.51.21:682][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA T600 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.14-13.51.21:682][  0]LogD3D12RHI: Adapter has 3964MB of dedicated video memory, 0MB of dedicated system memory, and 6116MB of shared system memory, 2 output[s]
+[2022.06.14-13.51.21:697][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.14-13.51.21:697][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 6116MB of shared system memory, 0 output[s]
+[2022.06.14-13.51.21:697][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.14-13.51.21:697][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.14-13.51.21:697][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.14-13.51.21:697][  0]LogHAL: Display: Platform has ~ 12 GB [12826279936 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.14-13.51.21:698][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.14-13.51.21:698][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.06.14-13.51.21:698][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.14-13.51.21:698][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.14-13.51.21:698][  0]LogInit: Computer: ADAS-PC
+[2022.06.14-13.51.21:698][  0]LogInit: User: arunp
+[2022.06.14-13.51.21:698][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.06.14-13.51.21:698][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.14-13.51.21:698][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2022.06.14-13.51.21:698][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.14-13.51.21:698][  0]LogMemory: Process Physical Memory: 255.30 MB used, 265.38 MB peak
+[2022.06.14-13.51.21:698][  0]LogMemory: Process Virtual Memory: 183.94 MB used, 183.94 MB peak
+[2022.06.14-13.51.21:698][  0]LogMemory: Physical Memory: 5202.68 MB used,  7029.41 MB free, 12232.09 MB total
+[2022.06.14-13.51.21:698][  0]LogMemory: Virtual Memory: 9128.88 MB used,  33103.21 MB free, 42232.09 MB total
+[2022.06.14-13.51.21:699][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.14-13.51.21:704][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.14-13.51.21:719][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.14-13.51.21:721][  0]LogInit: Using OS detected language (en-US).
+[2022.06.14-13.51.21:721][  0]LogInit: Using OS detected locale (en-IN).
+[2022.06.14-13.51.21:723][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.06.14-13.51.21:911][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.14-13.51.21:927][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.06.14-13.51.21:927][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.06.14-13.51.21:927][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2022.06.14-13.51.21:927][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem:   - Tamil (India) - (Keyboard).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem:   - English (India) - Touch Input Correction (TSF IME).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem:   - English (India) - Ink Correction (TSF IME).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.06.14-13.51.21:928][  0]LogWindowsTextInputMethodSystem: Activated input method: English (India) - (Keyboard).
+[2022.06.14-13.51.21:948][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.14-13.51.21:948][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.14-13.51.22:079][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.14-13.51.22:083][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.06.14-13.51.22:083][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.14-13.51.22:162][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.14-13.51.22:225][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.14-13.51.22:232][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.14-13.51.22:252][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.14-13.51.22:261][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.14-13.51.22:261][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.14-13.51.22:308][  0]LogD3D12RHI:     GPU DeviceId: 0x1fb1 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.14-13.51.22:308][  0]LogWindows: Attached monitors:
+[2022.06.14-13.51.22:308][  0]LogWindows:     resolution: 1360x768, work area: (-1360, 0) -> (0, 720), device: '\\.\DISPLAY2'
+[2022.06.14-13.51.22:308][  0]LogWindows:     resolution: 1360x768, work area: (0, 0) -> (1360, 720), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.14-13.51.22:308][  0]LogWindows: Found 2 attached monitors.
+[2022.06.14-13.51.22:308][  0]LogWindows: EnumDisplayDevices:
+[2022.06.14-13.51.22:308][  0]LogWindows:    0. 'NVIDIA T600' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.14-13.51.22:309][  0]LogWindows:    1. 'NVIDIA T600' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.06.14-13.51.22:309][  0]LogWindows:    2. 'NVIDIA T600' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.14-13.51.22:309][  0]LogWindows:    3. 'NVIDIA T600' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.14-13.51.22:309][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.06.14-13.51.22:310][  0]LogD3D12RHI:     Adapter Name: NVIDIA T600
+[2022.06.14-13.51.22:310][  0]LogD3D12RHI:   Driver Version: 516.25 (internal:31.0.15.1625, unified:516.25)
+[2022.06.14-13.51.22:310][  0]LogD3D12RHI:      Driver Date: 5-23-2022
+[2022.06.14-13.51.22:310][  0]LogRHI: Texture pool is 2122 MB (70% of 3032 MB)
+[2022.06.14-13.51.22:310][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.14-13.51.22:310][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.14-13.51.22:324][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.06.14-13.51.22:330][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/WarehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/WarehouseWreckage.uproject"  -platform=all'
+[2022.06.14-13.51.22:330][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Games/Unreal/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/WarehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/WarehouseWreckage.uproject"  -platform=all" ]
+[2022.06.14-13.51.22:362][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.14-13.51.22:371][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.14-13.51.22:371][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.14-13.51.22:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.14-13.51.22:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.14-13.51.22:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.14-13.51.22:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.14-13.51.22:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.14-13.51.22:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.14-13.51.22:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.14-13.51.22:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.14-13.51.22:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.14-13.51.22:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.14-13.51.22:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.14-13.51.22:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.14-13.51.22:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.14-13.51.22:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.14-13.51.22:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.14-13.51.22:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.14-13.51.22:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.14-13.51.22:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.14-13.51.22:428][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.14-13.51.22:436][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.14-13.51.22:438][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.14-13.51.22:438][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.14-13.51.22:438][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.14-13.51.22:438][  0]LogTargetPlatformManager:   PCM
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager:   BINKA
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager:   OGG
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.14-13.51.22:441][  0]LogTargetPlatformManager:   OPUS
+[2022.06.14-13.51.22:489][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.14-13.51.22:495][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.14-13.51.22:495][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.14-13.51.22:495][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.14-13.51.22:496][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.14-13.51.22:499][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.14-13.51.22:499][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.14-13.51.22:500][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.14-13.51.22:500][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.14-13.51.22:500][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.14-13.51.22:500][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.14-13.51.22:504][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.06.14-13.51.22:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.14-13.51.22:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.14-13.51.22:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.14-13.51.22:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.14-13.51.22:526][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.14-13.51.22:526][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.14-13.51.22:526][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.14-13.51.22:535][  0]LogDerivedDataCache: Speed tests for C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.14-13.51.22:535][  0]LogDerivedDataCache: Display: Performance to C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1356.61MBs, RandomWriteSpeed=132.69MBs. Assigned SpeedClass 'Local'
+[2022.06.14-13.51.22:536][  0]LogDerivedDataCache: Using Local data cache path C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.14-13.51.22:536][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.14-13.51.22:536][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.14-13.51.22:544][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.14-13.51.22:545][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.14-13.51.22:545][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Intermediate/Shaders/WorkingDirectory/10860/).
+[2022.06.14-13.51.22:545][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/arunp/AppData/Local/Temp/UnrealShaderWorkingDir/AEA1ABEE47B6875A19D22EB16A7F8BAB/'.
+[2022.06.14-13.51.22:545][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.14-13.51.22:545][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.06.14-13.51.24:199][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.14-13.51.24:199][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.14-13.51.24:243][  0]LogAssetRegistry: FAssetRegistry took 0.0129 seconds to start up
+[2022.06.14-13.51.24:249][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.14-13.51.24:509][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.14-13.51.24:510][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.14-13.51.24:766][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.14-13.51.24:766][  0]LogDeviceProfileManager: Active device profile: [00000AB5BBC771C0][00000AB5B3170000 50] WindowsEditor
+[2022.06.14-13.51.24:766][  0]LogDeviceProfileManager: Profiles: [00000AB5BBC76C80][00000AB5B3172800 50] Windows, [00000AB5BBC771C0][00000AB5B3170000 50] WindowsEditor, [00000AB5BBC76740][00000AB5B317A000 50] WindowsServer, [00000AB5BBC73100][00000AB5A64F7800 50] WindowsClient, [00000AB5BBC739C0][00000AB5B3117800 50] IOS, [00000AB5BBC77380][00000AB5B3175000 50] iPadAir2, [00000AB5BBC76AC0][00000AB5BBF80000 50] IPadPro, [00000AB5BBC71F80][00000AB5BBF82800 50] iPadAir3, [00000AB5BBC75780][00000AB5BBF87800 50] iPadAir4, [00000AB5BBC77C40][00000AB5BBF8A000 50] iPadMini4, [00000AB5BBC77700][00000AB5BBF8C800 50] iPadMini5, [00000AB5BBC747C0][00000AB5B3115000 50] iPadMini6, [00000AB5BBC7A800][00000AB5BBF92800 50] iPhone6S, [00000AB5BBC7AB80][00000AB5BBF90000 50] iPhone7, [00000AB5BBC7A480][00000AB5BBF95000 50] iPodTouch7, [00000AB5BBC7A100][00000AB5BBF9A000 50] iPhone6SPlus, [00000AB5BBC75CC0][00000AB5BBF9C800 50] iPhone7Plus, [00000AB5BBC73D40][00000AB5BBF85000 50] iPhoneSE, [00000AB5BBC79F40][00000AB5BBF97800 50] iPhone8, [00000AB5BBC72F40][00000AB5BBFA0000 50] iPhone8Plus, [00000AB5BBC76200][00000AB5BBFA5000 50] iPhoneX, [00000AB5BBC79D80][00000AB5BBFA7800 50] iPhoneXS, [00000AB5BBC73640][00000AB5BBFAA000 50] iPhoneXSMax, [00000AB5BBC79BC0][00000AB5BBFAC800 50] iPhoneXR, [00000AB5BBC7A640][00000AB5B528C800 50] iPhone11, [00000AB5BBC79A00][00000AB5BBFC0000 50] iPhone11Pro, [00000AB5BBC755C0][00000AB5BBFC5000 50] iPhone11ProMax, [00000AB5BBC778C0][00000AB5BBFC7800 50] iPhoneSE2, [00000AB5BBC72680][00000AB5BBFCA000 50] iPhone12Mini, [00000AB5BBC78500][00000AB5BBFCC800 50] iPhone12, [00000AB5BBC77000][00000AB5BBFA2800 50] iPhone12Pro, [00000AB5BBC78340][00000AB5BBFD0000 50] iPhone12ProMax, [00000AB5BBC7A2C0][00000AB5BBFD5000 50] iPhone13Mini, [00000AB5BBC74440][00000AB5BBFD7800 50] iPhone13, [00000AB5BBC74EC0][00000AB5BBFDA000 50] iPhone13Pro, [00000AB5BBC79840][00000AB5BBFDC800 50] iPhone13ProMax, [00000AB5BBC73480][00000AB5BBFC2800 50] iPadPro105, [00000AB5BBC76040][00000AB5BBFE0000 50] iPadPro129, [00000AB5BBC79680][00000AB5BBFE5000 50] iPadPro97, [00000AB5BBC77540][00000AB5BBFE7800 50] iPadPro2_129, [00000AB5BBC794C0][00000AB5BBFEA000 50] iPad5, [00000AB5BBC74600][00000AB5BBFEC800 50] iPad6, [00000AB5BBC78880][00000AB5BBFD2800 50] iPad7, [00000AB5BBC77E00][00000AB5BBFF0000 50] iPad8, [00000AB5BBC786C0][00000AB5BBFF5000 50] iPad9, [00000AB5BBC79300][00000AB5BBFF7800 50] iPadPro11, [00000AB5BBC75E80][00000AB5BBFFA000 50] iPadPro2_11, [00000AB5BBC76900][00000AB5BBFFC800 50] iPadPro3_11, [00000AB5BBC78180][00000AB5BBFE2800 50] iPadPro3_129, [00000AB5BBC74980][00000AB5BC010000 50] iPadPro4_129, [00000AB5BBC75080][00000AB5BC015000 50] iPadPro5_129, [00000AB5BBC78F80][00000AB5BC017800 50] AppleTV, [00000AB5BBC7A9C0][00000AB5BC01A000 50] AppleTV4K, [00000AB5BBC78C00][00000AB5BC01C800 50] TVOS, [00000AB5BBC7CB00][00000AB5BC020000 50] Mac, [00000AB5BBC7CE80][00000AB5BC022800 50] MacEditor, [00000AB5BBC7C780][00000AB5BC027800 50] MacClient, [00000AB5BBC78A40][00000AB5BC02A000 50] MacServer, [00000AB5BBC7D040][00000AB5BBFF2800 50] Linux, [00000AB5BBC76580][00000AB5BC012800 50] LinuxEditor, [00000AB5BBC7B280][00000AB5BC02C800 50] LinuxArm64Editor, [00000AB5BBC72840][00000AB5BC030000 50] LinuxArm64, [00000AB5BBC7DAC0][00000AB5BC035000 50] LinuxClient, [00000AB5BBC7C5C0][00000AB5BC037800 50] LinuxArm64Client, [00000AB5BBC7C400][00000AB5BC03A000 50] LinuxServer, [00000AB5BBC7D200][00000AB5BC03C800 50] LinuxArm64Server, [00000AB5BBC7B440][00000AB5BC025000 50] Android, [00000AB5BBC73F00][00000AB5BC040000 50] Android_Preview_OpenGL, [00000AB5BBC7B7C0][00000AB5BC045000 50] Android_Preview_Vulkan, [00000AB5BBC77A80][00000AB5BC047800 50] Android_Low, [00000AB5BBC7AD40][00000AB5BC04A000 50] Android_Mid, [00000AB5BBC73B80][00000AB5BC04C800 50] Android_High, [00000AB5BBC740C0][00000AB5BC032800 50] Android_Default, [00000AB5BBC7B0C0][00000AB5BC050000 50] Android_Adreno4xx, [00000AB5BBC74280][00000AB5BC055000 50] Android_Adreno5xx_Low, [00000AB5BBC7D580][00000AB5BC057800 50] Android_Adreno5xx, [00000AB5BBC7D900][00000AB5BC05A000 50] Android_Adreno6xx, [00000AB5BBC7C240][00000AB5BC05C800 50] Android_Adreno6xx_Vulkan, [00000AB5BBC78DC0][00000AB5BC042800 50] Android_Adreno7xx, [00000AB5BBC73800][00000AB5BC060000 50] Android_Adreno7xx_Vulkan, [00000AB5BBC732C0][00000AB5BC065000 50] Android_Mali_T6xx, [00000AB5BBC75B00][00000AB5BC067800 50] Android_Mali_T7xx, [00000AB5BBC7B980][00000AB5BC06A000 50] Android_Mali_T8xx, [00000AB5BBC74D00][00000AB5BC06C800 50] Android_Mali_G71, [00000AB5BBC7BEC0][00000AB5BC052800 50] Android_Mali_G72, [00000AB5BBC7B600][00000AB5BC070000 50] Android_Mali_G72_Vulkan, [00000AB5BBC79140][00000AB5BC075000 50] Android_Mali_G76, [00000AB5BBC75240][00000AB5BC077800 50] Android_Mali_G76_Vulkan, [00000AB5BBC7AF00][00000AB5BC07A000 50] Android_Mali_G77, [00000AB5BBC75940][00000AB5BC07C800 50] Android_Mali_G77_Vulkan, [00000AB5BBC75400][00000AB5BC062800 50] Android_Mali_G78, [00000AB5BBC7C080][00000AB5BC080000 50] Android_Mali_G78_Vulkan, [00000AB5BBC7D3C0][00000AB5BC085000 50] Android_Mali_G710, [00000AB5BBC7DC80][00000AB5BC087800 50] Android_Mali_G710_Vulkan, [00000AB5BBC7E700][00000AB5BC08A000 50] Android_Xclipse_920, [00000AB5BBC77FC0][00000AB5BC08C800 50] Android_Xclipse_920_Vulkan, [00000AB5BBC74B40][00000AB5BC072800 50] Android_Vulkan_SM5, [00000AB5BBC7C940][00000AB5BC090000 50] Android_PowerVR_G6xxx, [00000AB5BBC7E540][00000AB5BC095000 50] Android_PowerVR_GT7xxx, [00000AB5BBC7D740][00000AB5BC097800 50] Android_PowerVR_GE8xxx, [00000AB5BBC763C0][00000AB5BC09A000 50] Android_PowerVR_GM9xxx, [00000AB5BBC7EFC0][00000AB5BC09C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000AB5BC0A0000][00000AB5BC082800 50] Android_TegraK1, [00000AB5BC0A2300][00000AB5BC0B0000 50] Android_Unknown_Vulkan, [00000AB5BC0A2140][00000AB5BC0B5000 50] Oculus_Quest, [00000AB5BC0A1F80][00000AB5BC0B7800 50] Oculus_Quest2, [00000AB5BC0A1DC0][00000AB5BC0BA000 50] HoloLens, 
+[2022.06.14-13.51.24:766][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.14-13.51.24:789][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.14-13.51.25:012][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.14-13.51.25:012][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.14-13.51.25:012][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.14-13.51.25:012][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.14-13.51.25:012][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.14-13.51.25:028][  0]LogNetVersion: WarehouseWreckage 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3870070901)
+[2022.06.14-13.51.25:174][  0]LogSlate: Border
+[2022.06.14-13.51.25:174][  0]LogSlate: BreadcrumbButton
+[2022.06.14-13.51.25:174][  0]LogSlate: Default
+[2022.06.14-13.51.25:174][  0]LogSlate: Icons.Save
+[2022.06.14-13.51.25:174][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.14-13.51.25:174][  0]LogSlate: ListView
+[2022.06.14-13.51.25:174][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.14-13.51.25:174][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.14-13.51.25:174][  0]LogSlate: TableView.DarkRow
+[2022.06.14-13.51.25:174][  0]LogSlate: TableView.Row
+[2022.06.14-13.51.25:174][  0]LogSlate: TreeView
+[2022.06.14-13.51.25:400][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.25:433][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.25:433][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.25:581][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.14-13.51.25:581][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.06.14-13.51.25:581][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.14-13.51.25:965][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F28C132A4269737C1111D192B040242D | Instance: B89DF9474B2E6A2A48B18AB4B34DADE7 (ADAS-PC-10860).
+[2022.06.14-13.51.26:006][  0]LogPython: Using Python 3.9.7
+[2022.06.14-13.51.26:938][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.14-13.51.26:943][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.14-13.51.27:037][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.27:251][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.27:254][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.27:266][  0]LogUProjectInfo: Found projects:
+[2022.06.14-13.51.27:366][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.14-13.51.27:416][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.14-13.51.27:440][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.14-13.51.27:440][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.14-13.51.27:542][  0]LogCollectionManager: Loaded 0 collections in 0.001887 seconds
+[2022.06.14-13.51.27:629][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/Collections/' took 0.00s
+[2022.06.14-13.51.27:629][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Developers/arunp/Collections/' took 0.00s
+[2022.06.14-13.51.27:629][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Collections/' took 0.00s
+[2022.06.14-13.51.28:075][  0]LogEngine: Initializing Engine...
+[2022.06.14-13.51.28:092][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.14-13.51.28:093][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.14-13.51.28:403][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.14-13.51.28:404][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.14-13.51.28:417][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.14-13.51.28:456][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.14-13.51.28:457][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.14-13.51.28:483][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.14-13.51.28:484][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.14-13.51.28:484][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.14-13.51.28:484][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.14-13.51.28:484][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.14-13.51.28:484][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.14-13.51.28:484][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.14-13.51.28:485][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.14-13.51.28:485][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.14-13.51.28:485][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.14-13.51.28:491][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.14-13.51.28:578][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media USB Headphone Set  )
+[2022.06.14-13.51.28:579][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.14-13.51.28:580][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.14-13.51.28:581][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.14-13.51.28:581][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.14-13.51.28:581][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.14-13.51.28:583][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.14-13.51.28:583][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.14-13.51.28:583][  0]LogInit: FAudioDevice initialized.
+[2022.06.14-13.51.28:583][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.14-13.51.28:583][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.14-13.51.28:583][  0]LogInit: Texture streaming: Enabled
+[2022.06.14-13.51.28:631][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.14-13.51.28:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.14-13.51.28:656][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0C765FC4-4F91-7641-889F-79BF043C26BF}
+[2022.06.14-13.51.28:684][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.14-13.51.28:693][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.14-13.51.28:694][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.14-13.51.42:857][  0]LogLiveCoding: Display: First instance in process group "UE_WarehouseWreckage_0x5c4cf0e6", spawning console
+[2022.06.14-13.51.42:857][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.14-13.51.42:857][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.14-13.51.42:882][  0]LogInit: Transaction tracking system initialized
+[2022.06.14-13.51.42:977][  0]BlueprintLog: New page: Editor Load
+[2022.06.14-13.51.43:224][  0]LocalizationService: Localization service is disabled
+[2022.06.14-13.51.43:285][  0]TimingProfiler: Initialize
+[2022.06.14-13.51.43:285][  0]TimingProfiler: OnSessionChanged
+[2022.06.14-13.51.43:285][  0]LoadingProfiler: Initialize
+[2022.06.14-13.51.43:285][  0]LoadingProfiler: OnSessionChanged
+[2022.06.14-13.51.43:285][  0]NetworkingProfiler: Initialize
+[2022.06.14-13.51.43:285][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.14-13.51.43:285][  0]MemoryProfiler: Initialize
+[2022.06.14-13.51.43:285][  0]MemoryProfiler: OnSessionChanged
+[2022.06.14-13.51.44:120][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/' took 0.01s
+[2022.06.14-13.51.44:120][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.14-13.51.44:221][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.14-13.51.44:224][  0]SourceControl: Source control is disabled
+[2022.06.14-13.51.44:459][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.14-13.51.56:338][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.06.14-13.51.57:672][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.06.14-13.51.57:676][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalObjects__/Maps/NewMap_sample/A/E0/0F2AODHOF029JW0ZCYUT0N
+/Game/__ExternalObjects__/Maps/NewMap_sample/2/NR/0OA69P7UW45A2UX40M69V7
+/Game/__ExternalObjects__/Maps/NewMap_sample/8/72/2WBJHQGNQQR0X8VMNLM4CB
+/Game/__ExternalObjects__/Maps/NewMap_sample/D/34/C1BGYX0MJM2LSJ17YJBIVD
+/Game/__ExternalObjects__/Maps/NewMap_sample/E/R3/0VULB9ORLU1Q026B6SJ2B0
+[2022.06.14-13.51.57:682][  0]LogUnrealEdMisc: Loading editor; pre map load, took 37.711
+[2022.06.14-13.51.57:683][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.14-13.51.57:684][  0]LightingResults: New page: Lighting Build
+[2022.06.14-13.51.57:699][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.14-13.51.57:700][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.14-13.51.57:700][  0]MapCheck: New page: Map Check
+[2022.06.14-13.51.57:700][  0]LightingResults: New page: Lighting Build
+[2022.06.14-13.51.57:718][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.14-13.51.57:722][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.14-13.51.57:805][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.06.14-13.51.57:813][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.14-13.51.57:814][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.06.14-13.51.57:814][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.06.14-13.51.57:814][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.06.14-13.51.58:212][  0]LogWorldPartition: Display: WorldPartition initialize took 398 ms
+[2022.06.14-13.51.58:475][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.14-13.51.58:493][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.06.14-13.51.58:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.14-13.51.58:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 22.373ms to complete.
+[2022.06.14-13.51.58:517][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.833
+[2022.06.14-13.51.58:534][  0]LogUnrealEdMisc: Total Editor Startup Time, took 38.563
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: ================================================
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.00%
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.14-13.51.58:534][  0]LogShaderCompilers: Display: ================================================
+[2022.06.14-13.51.58:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-13.51.58:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-13.51.58:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-13.51.58:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.14-13.51.58:715][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:715][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:715][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:715][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:716][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:716][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:716][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:716][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:717][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:717][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:718][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:718][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:718][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:718][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:719][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:719][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:719][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:719][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:720][  0]LogPakFile: Display: Mounted Pak file 'E:/Games/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.14-13.51.58:720][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.14-13.51.58:790][  0]LogSlate: The tab "TopRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.06.14-13.51.58:790][  0]LogSlate: The tab "BottomRightModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.06.14-13.51.58:893][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.14-13.51.58:894][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.14-13.51.58:895][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.14-13.51.58:896][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.14-13.51.58:934][  0]LogViewport: Scene viewport resized to 677x582, mode Windowed.
+[2022.06.14-13.52.00:053][  0]LogStall: Startup...
+[2022.06.14-13.52.00:055][  0]LogStall: Startup complete.
+[2022.06.14-13.52.00:069][  0]LogLoad: (Engine Initialization) Total time: 40.10 seconds
+[2022.06.14-13.52.00:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.14-13.52.00:090][  0]LogAssetRegistry: Asset discovery search completed in 35.8499 seconds
+[2022.06.14-13.52.00:095][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.06.14-13.52.00:334][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.06.14-13.52.12:570][959]LogEditorViewport: Clicking Background
+[2022.06.14-13.52.15:492][985]LogSlate: Window 'Save Level As' being destroyed
+[2022.06.14-13.52.15:754][985]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+/Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+/Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+/Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+/Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+/Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+/Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+/Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+/Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+/Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+/Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+/Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+/Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+/Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+/Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+/Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+/Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+/Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+/Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+/Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+/Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+/Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+/Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+/Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+/Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+/Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+/Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+/Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+/Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+/Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+/Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+/Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+/Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+/Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+/Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+/Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+/Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+/Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+/Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+/Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+/Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+/Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+/Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+/Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+/Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+/Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+/Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+/Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+/Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+/Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+/Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+/Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+/Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+/Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+/Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+/Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+/Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+/Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+/Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+/Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+/Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+/Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+/Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+/Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+/Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+/Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+/Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+/Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+/Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+/Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+/Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+/Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+/Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+/Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+/Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+/Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+/Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+/Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+/Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+/Game/__ExternalActors__/Maps/NewMap/D/PJ/V5CVW9PAYF8Q66F633555P
+/Game/__ExternalActors__/Maps/NewMap/4/HL/IC16ZT7M6WVV5MU816Z46Z
+/Game/__ExternalActors__/Maps/NewMap/2/2V/3MCBAFOU6DQPN8Q44BOFXN
+/Game/__ExternalActors__/Maps/NewMap/E/Q6/T6I0NANLUE3Z2T4SN2XCD8
+/Game/__ExternalActors__/Maps/NewMap/B/PB/QK403XYJQCQZWFG6ZJXVV6
+/Game/__ExternalActors__/Maps/NewMap/B/57/IA3NQOKC395FU8RXYKL48X
+/Game/__ExternalActors__/Maps/NewMap/3/ZN/VFZU0QRLMOR63V2DVGC7ND
+/Game/__ExternalActors__/Maps/NewMap/0/OM/9QVUFN4PMT75XTFE5GR8PP
+/Game/__ExternalActors__/Maps/NewMap/B/47/4RWMH72LRUYYZQANCEYKT0
+/Game/__ExternalActors__/Maps/NewMap/4/2X/P6J9MHFU4L0ULSOH7385XQ
+/Game/__ExternalActors__/Maps/NewMap/B/RT/Q6UEZDE9ZTBCK8FPZBHQEK
+/Game/__ExternalActors__/Maps/NewMap/D/F0/M59D5BTY828O450ETIG3SI
+/Game/__ExternalActors__/Maps/NewMap/4/5X/D8WHK3CI7K4UR5EQAJ9SP2
+/Game/__ExternalActors__/Maps/NewMap/E/H0/G1FWZT4SVBE60X889ACO3B
+/Game/__ExternalActors__/Maps/NewMap/1/WP/7HOZX1HHFSXW6RAWTDC7XC
+/Game/__ExternalActors__/Maps/NewMap/C/VZ/R5MFLGEC33WCKE8OOE58J6
+/Game/__ExternalActors__/Maps/NewMap/C/CL/BG4CFAKIHXFSQUL9PGY1EX
+/Game/__ExternalActors__/Maps/NewMap/4/LU/P59PLTVDSL5EC6T9WHR98F
+/Game/__ExternalActors__/Maps/NewMap/B/6Q/LTZQIXBTOV538Q7Y4WAWSM
+/Game/__ExternalActors__/Maps/NewMap/2/4K/FS92EAZI2HVQSWCNLV44VB
+[2022.06.14-13.52.15:756][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_HLOD0_Instancing" FILE="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Maps/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2022.06.14-13.52.15:761][985]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004744 seconds
+[2022.06.14-13.52.15:763][985]LogSavePackage: Moving output files for package: /Game/Maps/NewMap_HLOD0_Instancing
+[2022.06.14-13.52.15:763][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NewMap_HLOD0_Instancing4FEE15F7488A74F602186E9EA4FCC9C6.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Maps/NewMap_HLOD0_Instancing.uasset'
+[2022.06.14-13.52.15:765][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+[2022.06.14-13.52.15:765][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3F6BO7MT23VXF0F3BJ3SVVBC6F61D1407A5A994A733B88B3F30705.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV.uasset'
+[2022.06.14-13.52.15:768][985]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+[2022.06.14-13.52.15:768][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/0IU8TM862LV9H1H1NLM65H01E036ED46235956E97226AD2829117D.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H.uasset'
+[2022.06.14-13.52.15:771][985]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+[2022.06.14-13.52.15:771][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/MF84NVBBXEU474DJ8ZVZAEDD2BADEA47104F2F4A2C308145F64FDD.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE.uasset'
+[2022.06.14-13.52.15:780][985]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+[2022.06.14-13.52.15:780][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NGAU94BV2F559EHNTPSSBV838761304DA92967CB5AB095979AAC92.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV.uasset'
+[2022.06.14-13.52.15:783][985]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+[2022.06.14-13.52.15:783][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ZEFXAEX0HV3TIZWTU363JODC48F48E4067981C5949079E64CE8AA0.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO.uasset'
+[2022.06.14-13.52.15:786][985]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+[2022.06.14-13.52.15:786][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/RFBFD2DNH0FEFQHKLMS41U5477FFFC49EE556159D507883CE73E11.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U.uasset'
+[2022.06.14-13.52.15:791][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+[2022.06.14-13.52.15:791][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/VJ59F2KE5EJH7KL11HW56U50E254544A56266F922F75A637765129.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U.uasset'
+[2022.06.14-13.52.15:795][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+[2022.06.14-13.52.15:795][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/VRIBNAXQJAWQR5GOWUC1SN123D0E0C46766584E52B338EB1FD1E62.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN.uasset'
+[2022.06.14-13.52.15:798][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+[2022.06.14-13.52.15:798][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/I6PGO2ZACY1WYF9I5EWTV69F7E0CF34591B632FAAC5A8A22408B6D.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6.uasset'
+[2022.06.14-13.52.15:802][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+[2022.06.14-13.52.15:802][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/N7NAI5BLFP6XUPRVG9092T9125FC6340B228B5CBDEC69507B305D1.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T.uasset'
+[2022.06.14-13.52.15:805][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+[2022.06.14-13.52.15:805][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3K1ELW8POX1476YIQIL90JBC59EE964D7D13AE92D4588EBCCD5992.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J.uasset'
+[2022.06.14-13.52.15:808][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+[2022.06.14-13.52.15:808][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/KR4MOME0Q9EHHAY19LM47K587DBC9749326CC8B0B06192E7BFE876.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K.uasset'
+[2022.06.14-13.52.15:811][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+[2022.06.14-13.52.15:811][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/QESUL5YBJS1BBCHS2JSAVQ385EF03341933962554E6798EC791E5F.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ.uasset'
+[2022.06.14-13.52.15:815][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+[2022.06.14-13.52.15:815][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3MZ9SCO4KE8UN4S2S282VMF9CD5E234DEC0FF5032E779E340CA856.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM.uasset'
+[2022.06.14-13.52.15:830][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+[2022.06.14-13.52.15:830][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/LU8EKCDKP0TL42NE2BIE382E957DC54E383FCFDFAFE1BBC70F83AC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38.uasset'
+[2022.06.14-13.52.15:845][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+[2022.06.14-13.52.15:845][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/W0W40E79SDBRJBO8KUQ77Y162FA3914D97C3F2DB4DE691B8859A47.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y.uasset'
+[2022.06.14-13.52.15:859][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+[2022.06.14-13.52.15:859][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ZZBED7LHDGKG3SH8THJYQZ841181F84C7200225B69BDA0B1A53C19.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ.uasset'
+[2022.06.14-13.52.15:874][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+[2022.06.14-13.52.15:874][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/T7QOSKKISAD7TW2ET44AJH2E477472439DC8D83D2BA196BA037702.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH.uasset'
+[2022.06.14-13.52.15:889][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+[2022.06.14-13.52.15:889][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/OLV86I0JEO5FH07W2RYUJB97492FE14860079B9B9985BA21F65FE6.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB.uasset'
+[2022.06.14-13.52.15:902][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+[2022.06.14-13.52.15:902][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3G8JKEP9AAZ27SP07W7G2I5223DA8F41487E5B561D5CBCD9FE6052.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I.uasset'
+[2022.06.14-13.52.15:916][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+[2022.06.14-13.52.15:916][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/B2X2TWC98I4UROIW8EGUWZ36FDD4A54401620D7D7CB0ACA6A4B100.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ.uasset'
+[2022.06.14-13.52.15:930][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+[2022.06.14-13.52.15:930][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/G86XT6C01J32PZHFXA1KHO4A6BF2304FB797CAE18CA7BA729015A5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO.uasset'
+[2022.06.14-13.52.15:944][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+[2022.06.14-13.52.15:944][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/4JM3OOF6XJPFG17TLNQ1PGDB374EBB483DD7EE60899EB3DADE2EF5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG.uasset'
+[2022.06.14-13.52.15:958][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+[2022.06.14-13.52.15:958][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/YMV71CZT1I4LM4G6OL7HSZ0C1FF25C479E1FB06C2B15BFB71CAFC3.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ.uasset'
+[2022.06.14-13.52.15:973][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+[2022.06.14-13.52.15:973][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/USXJ510VJSP46Z7EF7RM17CCD6924B4376A31708F7778950180287.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17.uasset'
+[2022.06.14-13.52.15:987][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+[2022.06.14-13.52.15:987][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/1PYRMHYJKTHEM77W57LQXM5B23C7F54E1ADA77EFBDAD87149FE9E5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM.uasset'
+[2022.06.14-13.52.16:003][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+[2022.06.14-13.52.16:004][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/JDX5IBJO7Z9HMDPSFG1PSR69E1ABAE4A62BDF2D649958CBE58B23F.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR.uasset'
+[2022.06.14-13.52.16:018][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+[2022.06.14-13.52.16:019][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3DNHCYXL85IR1Z21BNAE4Z3AE68CE14F5AA5FFF6144486F596FF7D.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z.uasset'
+[2022.06.14-13.52.16:034][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+[2022.06.14-13.52.16:034][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/O2IW7NMCQKXVD54OR4KVVT90BEE9B449BE7C5DFEA796AA05CC65B5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT.uasset'
+[2022.06.14-13.52.16:049][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+[2022.06.14-13.52.16:049][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/5WQUG4Z7YE3VRLFVRYNMC757CE9DE1469AEA1F9DBD019D56EE6CCE.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7.uasset'
+[2022.06.14-13.52.16:064][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+[2022.06.14-13.52.16:064][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ORO7HOQI4SPZC00FVB89RR55BE1E95460B01F08C8CF5861910C570.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR.uasset'
+[2022.06.14-13.52.16:078][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+[2022.06.14-13.52.16:078][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/XE7YNGKZFDGGV0LG9I64Y092622B344BB16AE8BF3E53A1BA24EF03.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0.uasset'
+[2022.06.14-13.52.16:091][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+[2022.06.14-13.52.16:092][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/KUWRZ3Y1EYZ0QB2RKTT2B745CF506944B60DDA95CE1F98320779E4.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7.uasset'
+[2022.06.14-13.52.16:107][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+[2022.06.14-13.52.16:107][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/683JY7PQASBHKBGG1KHJZJC405DDE1441322967AA76E84F05EDDFE.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ.uasset'
+[2022.06.14-13.52.16:121][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+[2022.06.14-13.52.16:121][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/AF0IB6NERZTY60FT9IT1I54FA9A24D41F3EC21E76E6E9BFD420DBC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5.uasset'
+[2022.06.14-13.52.16:135][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+[2022.06.14-13.52.16:136][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/TDPTR8SQ20EHZWPF4P6UXPCC67990B4282B67642EDF29A33247B2C.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP.uasset'
+[2022.06.14-13.52.16:150][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+[2022.06.14-13.52.16:150][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/6NFSDY4DTFF14D3C9ONM8B53AB06514E422A56E8247B89D4481D17.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B.uasset'
+[2022.06.14-13.52.16:163][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+[2022.06.14-13.52.16:163][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ND2LBN0Y13W6NNXN1UWAAO4C09DC754495A36B7FFE948FF5E30A03.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO.uasset'
+[2022.06.14-13.52.16:179][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+[2022.06.14-13.52.16:179][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/SECY0RQVNA3LGX1MRFFWJR98965750497A211503CEA49DBB34838A.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR.uasset'
+[2022.06.14-13.52.16:192][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+[2022.06.14-13.52.16:193][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/AD3ZC87T0ZBOYRJO3J9ANR5505BDAD46E5F79AEEAE3988B8FA6F98.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR.uasset'
+[2022.06.14-13.52.16:208][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+[2022.06.14-13.52.16:209][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/THXEXE8C7Z8X364XCEU44LB01700C0459EF894F00EE5B1FBCE543A.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L.uasset'
+[2022.06.14-13.52.16:223][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+[2022.06.14-13.52.16:223][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ZTQ5H3ILVU9UJ72Y5W3J3TC838F3F24384FE53438CA880B0C5AAFC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T.uasset'
+[2022.06.14-13.52.16:239][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+[2022.06.14-13.52.16:239][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NPPZCARNDCI0B9YHNAH2TNDA72957E405E49E089DF09A76C1419F1.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN.uasset'
+[2022.06.14-13.52.16:255][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+[2022.06.14-13.52.16:255][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/6IK7QNJ3GVBD1FYM95RX7QC2723C344A4AFC53237C5CA00BCC1A2B.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q.uasset'
+[2022.06.14-13.52.16:270][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+[2022.06.14-13.52.16:270][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/V62YEPXPX8WWK4R2FV85YDE3902E1B453F3E86A87CC9B490382DE6.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD.uasset'
+[2022.06.14-13.52.16:284][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+[2022.06.14-13.52.16:284][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NNNNTLKKAPOM5AN7Z5F358CF8B1A9E467C2FD5C383F980B10B1243.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358.uasset'
+[2022.06.14-13.52.16:299][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+[2022.06.14-13.52.16:299][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/4Z2GB9AES9WPD9BLFZWPVOF4B5084445E1B54F731F679F34412357.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO.uasset'
+[2022.06.14-13.52.16:314][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+[2022.06.14-13.52.16:314][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/JC7KQ4ZPXIVLIAUVHGG94KD339FE344A5BF14C1838FB96BCD26F8C.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K.uasset'
+[2022.06.14-13.52.16:328][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+[2022.06.14-13.52.16:328][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/0A2E1UWBY3YB38FNYNUELG02C2524544C271B8E99F22A82714ADA4.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG.uasset'
+[2022.06.14-13.52.16:344][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+[2022.06.14-13.52.16:344][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/10GL7VDT3NTXY663PYRD4Y1C7A9CE3457ACE01EED0F28BF1997042.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y.uasset'
+[2022.06.14-13.52.16:358][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+[2022.06.14-13.52.16:358][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/KU1RQBEIZ0F2EMT32CUIE54821402F41FA17DDF8F60DABD857D3D7.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5.uasset'
+[2022.06.14-13.52.16:374][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+[2022.06.14-13.52.16:374][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/ND9FMEFS3T1CTINSZTJD01ADA420DC46D8A9271ADF428D20820447.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01.uasset'
+[2022.06.14-13.52.16:387][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+[2022.06.14-13.52.16:387][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/MN8VQWTLB3SJB8SY6MZWBJ3A5F7F7F49FE52129E765C90BCE72F8F.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ.uasset'
+[2022.06.14-13.52.16:401][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+[2022.06.14-13.52.16:401][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/MTR97PWLYR7UZVTDU6VSFZ5B3EC4AE4D7B6C08ADF275A58CC6E78B.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ.uasset'
+[2022.06.14-13.52.16:415][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+[2022.06.14-13.52.16:415][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/XWU87CPB9QZZOQNI11XCVC893D622343B4DF440044D9BFE2D5E133.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC.uasset'
+[2022.06.14-13.52.16:427][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+[2022.06.14-13.52.16:427][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/WBW1UWYEJSRM0YAXQL9R114A9678314BB5EB48AADB4788FC38197B.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11.uasset'
+[2022.06.14-13.52.16:441][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+[2022.06.14-13.52.16:441][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/T37EUQ2I007W1SUXMLX8B1072069F7452E9CF4A3FAFDAF9FAEE91F.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1.uasset'
+[2022.06.14-13.52.16:456][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+[2022.06.14-13.52.16:456][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/XGGG0WAMG1XPGUSTU0HKB0B3D7BEAB445E1710DCA1B4A120B306FC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0.uasset'
+[2022.06.14-13.52.16:470][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+[2022.06.14-13.52.16:471][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/XJMB4I0OIEYHGBTFXAAQIK6ACDBBBF4F385C3123530CBCCC3CAFE0.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK.uasset'
+[2022.06.14-13.52.16:486][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+[2022.06.14-13.52.16:486][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/WRN96VKTI839WVDGJHVO2NA447B9C54B1548F103B36C8A6D4F6388.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N.uasset'
+[2022.06.14-13.52.16:500][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+[2022.06.14-13.52.16:500][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/F85QFOQL6YKZ6YT6SJ8Y8JA78E6FA543ED697752FBF0BA167C7BD3.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J.uasset'
+[2022.06.14-13.52.16:514][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+[2022.06.14-13.52.16:514][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/FB68B8QWD9882N88F07FTI0AB66991482CA57F4B4CC19A369722AD.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI.uasset'
+[2022.06.14-13.52.16:527][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+[2022.06.14-13.52.16:527][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/Q071S8QNFVQYMEK9L4BU5G12B2793F45B5661052C519A8361CBE32.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G.uasset'
+[2022.06.14-13.52.16:543][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+[2022.06.14-13.52.16:544][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/UO3OI5US8RHIWEAU9K9G3K9C33800D418148BD6A1102A2105562CF.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K.uasset'
+[2022.06.14-13.52.16:560][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+[2022.06.14-13.52.16:560][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/KXQ6PYOG90C66N1CJJXJHN891FB9CF48AE1DAB024E05B0AA440AEB.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN.uasset'
+[2022.06.14-13.52.16:575][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+[2022.06.14-13.52.16:575][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/4L9KR4JK4180UQ3PBI1B5LD164CF6E4683DD7951DA1CB23E0FDE79.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L.uasset'
+[2022.06.14-13.52.16:591][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+[2022.06.14-13.52.16:591][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/COA6RG9N2HZXTGSJTPAUS49103EFEA43F16F3A038863928B0EB1DE.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4.uasset'
+[2022.06.14-13.52.16:608][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+[2022.06.14-13.52.16:608][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/Z7VCJMUUKO55YXUQ5F3HS53E4FD5A5469AE1D2ED66269D4FC95C7E.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5.uasset'
+[2022.06.14-13.52.16:621][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+[2022.06.14-13.52.16:621][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/DX9Z6DKV510ZEYXSS0RAN0A7D2AFAC4FB2D5D66710A387E046E352.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0.uasset'
+[2022.06.14-13.52.16:634][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+[2022.06.14-13.52.16:634][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NOFCOKUNMS5V2UN59JU9XG1FB4DADB4D5EDDF50BF0169493752FFC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG.uasset'
+[2022.06.14-13.52.16:650][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+[2022.06.14-13.52.16:650][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/BLSH9E41YJPK1ZY6Y0GV1NCDAC4C7F46B551A99138EE9A1DA8F1C8.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N.uasset'
+[2022.06.14-13.52.16:667][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+[2022.06.14-13.52.16:667][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/9EXQAIFRX4Z4OC2OH93QVF9FBD83314E7B10EF997CE4926146F56B.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF.uasset'
+[2022.06.14-13.52.16:681][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+[2022.06.14-13.52.16:681][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/84RKNU609EH5C98EZOP1PG4F4F31A04835DD24BBA38B90B3042445.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG.uasset'
+[2022.06.14-13.52.16:692][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+[2022.06.14-13.52.16:692][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/9UVZPR6FU0QJW26SZGZ6XW22D3FCE548785A9ECF544F9359E437F7.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW.uasset'
+[2022.06.14-13.52.16:703][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+[2022.06.14-13.52.16:703][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/DMIYP3Z11CP73TNW8H76FN158DA0F147C851C11A7E59AFF449BDA6.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN.uasset'
+[2022.06.14-13.52.16:714][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+[2022.06.14-13.52.16:714][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/RA2KM5I66ZNSU53VCRY2SI0CF4F8794ED5D625BF8F56B0A0B87402.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI.uasset'
+[2022.06.14-13.52.16:725][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+[2022.06.14-13.52.16:725][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/OP4SOY7NOSDSEO6RKNBWYFF588B08741B75BCF4B8F8A9C53EDA15E.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF.uasset'
+[2022.06.14-13.52.16:736][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+[2022.06.14-13.52.16:736][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/L26QUYRJI0L8EO664T22GBED960E214AF850E89690F0B172F9CF6C.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB.uasset'
+[2022.06.14-13.52.16:931][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+[2022.06.14-13.52.16:931][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/2TZO04YJS83TR30IPVEA3A92E91BB84B459E2DA99684ADDE10A933.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A.uasset'
+[2022.06.14-13.52.17:291][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/PJ/V5CVW9PAYF8Q66F633555P
+[2022.06.14-13.52.17:291][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/V5CVW9PAYF8Q66F633555PD18BB2744CC58C3EE85A91BF5AE9EDC5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/D/PJ/V5CVW9PAYF8Q66F633555P.uasset'
+[2022.06.14-13.52.18:358][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/HL/IC16ZT7M6WVV5MU816Z46Z
+[2022.06.14-13.52.18:358][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/IC16ZT7M6WVV5MU816Z46ZA7A7BACA4B9435DF4899C7AF9778DC0E.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/HL/IC16ZT7M6WVV5MU816Z46Z.uasset'
+[2022.06.14-13.52.18:538][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/2V/3MCBAFOU6DQPN8Q44BOFXN
+[2022.06.14-13.52.18:538][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/3MCBAFOU6DQPN8Q44BOFXN71E6CBA84F4461CD53B169913EDDB2A5.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/2/2V/3MCBAFOU6DQPN8Q44BOFXN.uasset'
+[2022.06.14-13.52.18:755][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/Q6/T6I0NANLUE3Z2T4SN2XCD8
+[2022.06.14-13.52.18:755][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/T6I0NANLUE3Z2T4SN2XCD82186B93F44A27BB208D77FAC4EF81965.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/Q6/T6I0NANLUE3Z2T4SN2XCD8.uasset'
+[2022.06.14-13.52.18:989][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/PB/QK403XYJQCQZWFG6ZJXVV6
+[2022.06.14-13.52.18:989][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/QK403XYJQCQZWFG6ZJXVV610169F864F635522DA68759E1793F082.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/PB/QK403XYJQCQZWFG6ZJXVV6.uasset'
+[2022.06.14-13.52.20:119][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/57/IA3NQOKC395FU8RXYKL48X
+[2022.06.14-13.52.20:119][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/IA3NQOKC395FU8RXYKL48X2CA14A1D4EF696E6CEFC36BFD15B3EF0.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/57/IA3NQOKC395FU8RXYKL48X.uasset'
+[2022.06.14-13.52.20:586][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/3/ZN/VFZU0QRLMOR63V2DVGC7ND
+[2022.06.14-13.52.20:587][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/VFZU0QRLMOR63V2DVGC7ND7D91482949B3681FA39245A89ECD200B.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/3/ZN/VFZU0QRLMOR63V2DVGC7ND.uasset'
+[2022.06.14-13.52.20:836][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/0/OM/9QVUFN4PMT75XTFE5GR8PP
+[2022.06.14-13.52.20:837][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/9QVUFN4PMT75XTFE5GR8PPC2BBB0354B10F88BAF74B3A833CECB14.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/0/OM/9QVUFN4PMT75XTFE5GR8PP.uasset'
+[2022.06.14-13.52.21:512][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/47/4RWMH72LRUYYZQANCEYKT0
+[2022.06.14-13.52.21:512][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/4RWMH72LRUYYZQANCEYKT028AAE54649A1EDD697A20186E49026BD.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/47/4RWMH72LRUYYZQANCEYKT0.uasset'
+[2022.06.14-13.52.21:745][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/2X/P6J9MHFU4L0ULSOH7385XQ
+[2022.06.14-13.52.21:745][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/P6J9MHFU4L0ULSOH7385XQ0F31AFB74CAFFA05B5EAFD8454CE8DCC.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/2X/P6J9MHFU4L0ULSOH7385XQ.uasset'
+[2022.06.14-13.52.22:179][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/RT/Q6UEZDE9ZTBCK8FPZBHQEK
+[2022.06.14-13.52.22:179][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/Q6UEZDE9ZTBCK8FPZBHQEK9CE9861045B500B6870C0D858654C715.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/RT/Q6UEZDE9ZTBCK8FPZBHQEK.uasset'
+[2022.06.14-13.52.23:520][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/D/F0/M59D5BTY828O450ETIG3SI
+[2022.06.14-13.52.23:520][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/M59D5BTY828O450ETIG3SI8F359D784E7E4A71494B2F848811C04D.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/D/F0/M59D5BTY828O450ETIG3SI.uasset'
+[2022.06.14-13.52.23:762][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/5X/D8WHK3CI7K4UR5EQAJ9SP2
+[2022.06.14-13.52.23:762][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/D8WHK3CI7K4UR5EQAJ9SP2242E2C774A62A6A061FBD59164F7B43D.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/5X/D8WHK3CI7K4UR5EQAJ9SP2.uasset'
+[2022.06.14-13.52.24:241][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/E/H0/G1FWZT4SVBE60X889ACO3B
+[2022.06.14-13.52.24:241][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/G1FWZT4SVBE60X889ACO3B0643D7994308A55BFEE77BA27E75CF20.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/E/H0/G1FWZT4SVBE60X889ACO3B.uasset'
+[2022.06.14-13.52.24:487][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/1/WP/7HOZX1HHFSXW6RAWTDC7XC
+[2022.06.14-13.52.24:487][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/7HOZX1HHFSXW6RAWTDC7XC5529721B47026B17846D73B88EF314B8.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/1/WP/7HOZX1HHFSXW6RAWTDC7XC.uasset'
+[2022.06.14-13.52.24:965][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/VZ/R5MFLGEC33WCKE8OOE58J6
+[2022.06.14-13.52.24:965][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/R5MFLGEC33WCKE8OOE58J60976459F4386D65D1FDC5FB67E507062.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/C/VZ/R5MFLGEC33WCKE8OOE58J6.uasset'
+[2022.06.14-13.52.25:217][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/C/CL/BG4CFAKIHXFSQUL9PGY1EX
+[2022.06.14-13.52.25:217][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/BG4CFAKIHXFSQUL9PGY1EX9E6052CE41629DFD86F93991FF57142F.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/C/CL/BG4CFAKIHXFSQUL9PGY1EX.uasset'
+[2022.06.14-13.52.25:662][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/4/LU/P59PLTVDSL5EC6T9WHR98F
+[2022.06.14-13.52.25:662][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/P59PLTVDSL5EC6T9WHR98F540C5AD64C795CE264CE8495DA2E7664.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/4/LU/P59PLTVDSL5EC6T9WHR98F.uasset'
+[2022.06.14-13.52.25:884][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/B/6Q/LTZQIXBTOV538Q7Y4WAWSM
+[2022.06.14-13.52.25:884][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/LTZQIXBTOV538Q7Y4WAWSM39EB9C2D498831C7EA24BCBB6CCA82BB.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/B/6Q/LTZQIXBTOV538Q7Y4WAWSM.uasset'
+[2022.06.14-13.52.27:547][985]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/NewMap/2/4K/FS92EAZI2HVQSWCNLV44VB
+[2022.06.14-13.52.27:547][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/FS92EAZI2HVQSWCNLV44VBA3CB3ED44EB23E4330C38F977BE62AC1.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/__ExternalActors__/Maps/NewMap/2/4K/FS92EAZI2HVQSWCNLV44VB.uasset'
+[2022.06.14-13.52.27:557][985]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/NewMap/7/PV/3F6BO7MT23VXF0F3BJ3SVV
+/Game/__ExternalObjects__/Maps/NewMap/B/1I/0IU8TM862LV9H1H1NLM65H
+/Game/__ExternalObjects__/Maps/NewMap/A/GD/MF84NVBBXEU474DJ8ZVZAE
+/Game/__ExternalObjects__/Maps/NewMap/4/S0/NGAU94BV2F559EHNTPSSBV
+/Game/__ExternalObjects__/Maps/NewMap/6/3M/ZEFXAEX0HV3TIZWTU363JO
+/Game/__ExternalObjects__/Maps/NewMap/D/74/RFBFD2DNH0FEFQHKLMS41U
+/Game/__ExternalActors__/Maps/NewMap/7/8Q/VJ59F2KE5EJH7KL11HW56U
+/Game/__ExternalActors__/Maps/NewMap/8/ZI/VRIBNAXQJAWQR5GOWUC1SN
+/Game/__ExternalActors__/Maps/NewMap/4/A0/I6PGO2ZACY1WYF9I5EWTV6
+/Game/__ExternalActors__/Maps/NewMap/3/XV/N7NAI5BLFP6XUPRVG9092T
+/Game/__ExternalActors__/Maps/NewMap/4/CH/3K1ELW8POX1476YIQIL90J
+/Game/__ExternalActors__/Maps/NewMap/0/K8/KR4MOME0Q9EHHAY19LM47K
+/Game/__ExternalActors__/Maps/NewMap/9/NJ/QESUL5YBJS1BBCHS2JSAVQ
+/Game/__ExternalActors__/Maps/NewMap/5/C6/3MZ9SCO4KE8UN4S2S282VM
+/Game/__ExternalActors__/Maps/NewMap/E/HP/LU8EKCDKP0TL42NE2BIE38
+/Game/__ExternalActors__/Maps/NewMap/D/AR/W0W40E79SDBRJBO8KUQ77Y
+/Game/__ExternalActors__/Maps/NewMap/7/7O/ZZBED7LHDGKG3SH8THJYQZ
+/Game/__ExternalActors__/Maps/NewMap/B/SI/T7QOSKKISAD7TW2ET44AJH
+/Game/__ExternalActors__/Maps/NewMap/6/R7/OLV86I0JEO5FH07W2RYUJB
+/Game/__ExternalActors__/Maps/NewMap/6/C8/3G8JKEP9AAZ27SP07W7G2I
+/Game/__ExternalActors__/Maps/NewMap/8/Y9/B2X2TWC98I4UROIW8EGUWZ
+/Game/__ExternalActors__/Maps/NewMap/E/VE/G86XT6C01J32PZHFXA1KHO
+/Game/__ExternalActors__/Maps/NewMap/B/X6/4JM3OOF6XJPFG17TLNQ1PG
+/Game/__ExternalActors__/Maps/NewMap/1/RJ/YMV71CZT1I4LM4G6OL7HSZ
+/Game/__ExternalActors__/Maps/NewMap/1/A2/USXJ510VJSP46Z7EF7RM17
+/Game/__ExternalActors__/Maps/NewMap/3/JX/1PYRMHYJKTHEM77W57LQXM
+/Game/__ExternalActors__/Maps/NewMap/0/IG/JDX5IBJO7Z9HMDPSFG1PSR
+/Game/__ExternalActors__/Maps/NewMap/4/E0/3DNHCYXL85IR1Z21BNAE4Z
+/Game/__ExternalActors__/Maps/NewMap/5/9J/O2IW7NMCQKXVD54OR4KVVT
+/Game/__ExternalActors__/Maps/NewMap/B/38/5WQUG4Z7YE3VRLFVRYNMC7
+/Game/__ExternalActors__/Maps/NewMap/4/NT/ORO7HOQI4SPZC00FVB89RR
+/Game/__ExternalActors__/Maps/NewMap/6/VO/XE7YNGKZFDGGV0LG9I64Y0
+/Game/__ExternalActors__/Maps/NewMap/0/DU/KUWRZ3Y1EYZ0QB2RKTT2B7
+/Game/__ExternalActors__/Maps/NewMap/5/NV/683JY7PQASBHKBGG1KHJZJ
+/Game/__ExternalActors__/Maps/NewMap/5/FJ/AF0IB6NERZTY60FT9IT1I5
+/Game/__ExternalActors__/Maps/NewMap/B/VB/TDPTR8SQ20EHZWPF4P6UXP
+/Game/__ExternalActors__/Maps/NewMap/9/WP/6NFSDY4DTFF14D3C9ONM8B
+/Game/__ExternalActors__/Maps/NewMap/E/85/ND2LBN0Y13W6NNXN1UWAAO
+/Game/__ExternalActors__/Maps/NewMap/4/T0/SECY0RQVNA3LGX1MRFFWJR
+/Game/__ExternalActors__/Maps/NewMap/4/PR/AD3ZC87T0ZBOYRJO3J9ANR
+/Game/__ExternalActors__/Maps/NewMap/1/Y7/THXEXE8C7Z8X364XCEU44L
+/Game/__ExternalActors__/Maps/NewMap/E/MU/ZTQ5H3ILVU9UJ72Y5W3J3T
+/Game/__ExternalActors__/Maps/NewMap/6/YS/NPPZCARNDCI0B9YHNAH2TN
+/Game/__ExternalActors__/Maps/NewMap/F/0P/6IK7QNJ3GVBD1FYM95RX7Q
+/Game/__ExternalActors__/Maps/NewMap/D/DI/V62YEPXPX8WWK4R2FV85YD
+/Game/__ExternalActors__/Maps/NewMap/5/2A/NNNNTLKKAPOM5AN7Z5F358
+/Game/__ExternalActors__/Maps/NewMap/1/D3/4Z2GB9AES9WPD9BLFZWPVO
+/Game/__ExternalActors__/Maps/NewMap/C/R7/JC7KQ4ZPXIVLIAUVHGG94K
+/Game/__ExternalActors__/Maps/NewMap/9/ML/0A2E1UWBY3YB38FNYNUELG
+/Game/__ExternalActors__/Maps/NewMap/0/QE/10GL7VDT3NTXY663PYRD4Y
+/Game/__ExternalActors__/Maps/NewMap/2/IS/KU1RQBEIZ0F2EMT32CUIE5
+/Game/__ExternalActors__/Maps/NewMap/4/A2/ND9FMEFS3T1CTINSZTJD01
+/Game/__ExternalActors__/Maps/NewMap/7/2X/MN8VQWTLB3SJB8SY6MZWBJ
+/Game/__ExternalActors__/Maps/NewMap/6/1Z/MTR97PWLYR7UZVTDU6VSFZ
+/Game/__ExternalActors__/Maps/NewMap/B/FE/XWU87CPB9QZZOQNI11XCVC
+/Game/__ExternalActors__/Maps/NewMap/D/XB/WBW1UWYEJSRM0YAXQL9R11
+/Game/__ExternalActors__/Maps/NewMap/3/KW/T37EUQ2I007W1SUXMLX8B1
+/Game/__ExternalActors__/Maps/NewMap/E/WQ/XGGG0WAMG1XPGUSTU0HKB0
+/Game/__ExternalActors__/Maps/NewMap/3/9Y/XJMB4I0OIEYHGBTFXAAQIK
+/Game/__ExternalActors__/Maps/NewMap/2/J4/WRN96VKTI839WVDGJHVO2N
+/Game/__ExternalActors__/Maps/NewMap/A/YP/F85QFOQL6YKZ6YT6SJ8Y8J
+/Game/__ExternalActors__/Maps/NewMap/B/E2/FB68B8QWD9882N88F07FTI
+/Game/__ExternalActors__/Maps/NewMap/5/T9/Q071S8QNFVQYMEK9L4BU5G
+/Game/__ExternalActors__/Maps/NewMap/7/1M/UO3OI5US8RHIWEAU9K9G3K
+/Game/__ExternalActors__/Maps/NewMap/4/2W/KXQ6PYOG90C66N1CJJXJHN
+/Game/__ExternalActors__/Maps/NewMap/4/59/4L9KR4JK4180UQ3PBI1B5L
+/Game/__ExternalActors__/Maps/NewMap/0/N8/COA6RG9N2HZXTGSJTPAUS4
+/Game/__ExternalActors__/Maps/NewMap/8/C7/Z7VCJMUUKO55YXUQ5F3HS5
+/Game/__ExternalActors__/Maps/NewMap/8/46/DX9Z6DKV510ZEYXSS0RAN0
+/Game/__ExternalActors__/Maps/NewMap/C/PC/NOFCOKUNMS5V2UN59JU9XG
+/Game/__ExternalActors__/Maps/NewMap/5/X6/BLSH9E41YJPK1ZY6Y0GV1N
+/Game/__ExternalActors__/Maps/NewMap/4/BR/9EXQAIFRX4Z4OC2OH93QVF
+/Game/__ExternalActors__/Maps/NewMap/B/6H/84RKNU609EH5C98EZOP1PG
+/Game/__ExternalActors__/Maps/NewMap/A/W0/9UVZPR6FU0QJW26SZGZ6XW
+/Game/__ExternalActors__/Maps/NewMap/4/FV/DMIYP3Z11CP73TNW8H76FN
+/Game/__ExternalActors__/Maps/NewMap/C/BW/RA2KM5I66ZNSU53VCRY2SI
+/Game/__ExternalActors__/Maps/NewMap/A/F5/OP4SOY7NOSDSEO6RKNBWYF
+/Game/__ExternalActors__/Maps/NewMap/8/S7/L26QUYRJI0L8EO664T22GB
+/Game/__ExternalActors__/Maps/NewMap/E/UB/2TZO04YJS83TR30IPVEA3A
+/Game/__ExternalActors__/Maps/NewMap/D/PJ/V5CVW9PAYF8Q66F633555P
+/Game/__ExternalActors__/Maps/NewMap/4/HL/IC16ZT7M6WVV5MU816Z46Z
+/Game/__ExternalActors__/Maps/NewMap/2/2V/3MCBAFOU6DQPN8Q44BOFXN
+/Game/__ExternalActors__/Maps/NewMap/E/Q6/T6I0NANLUE3Z2T4SN2XCD8
+/Game/__ExternalActors__/Maps/NewMap/B/PB/QK403XYJQCQZWFG6ZJXVV6
+/Game/__ExternalActors__/Maps/NewMap/B/57/IA3NQOKC395FU8RXYKL48X
+/Game/__ExternalActors__/Maps/NewMap/3/ZN/VFZU0QRLMOR63V2DVGC7ND
+/Game/__ExternalActors__/Maps/NewMap/0/OM/9QVUFN4PMT75XTFE5GR8PP
+/Game/__ExternalActors__/Maps/NewMap/B/47/4RWMH72LRUYYZQANCEYKT0
+/Game/__ExternalActors__/Maps/NewMap/4/2X/P6J9MHFU4L0ULSOH7385XQ
+/Game/__ExternalActors__/Maps/NewMap/B/RT/Q6UEZDE9ZTBCK8FPZBHQEK
+/Game/__ExternalActors__/Maps/NewMap/D/F0/M59D5BTY828O450ETIG3SI
+/Game/__ExternalActors__/Maps/NewMap/4/5X/D8WHK3CI7K4UR5EQAJ9SP2
+/Game/__ExternalActors__/Maps/NewMap/E/H0/G1FWZT4SVBE60X889ACO3B
+/Game/__ExternalActors__/Maps/NewMap/1/WP/7HOZX1HHFSXW6RAWTDC7XC
+/Game/__ExternalActors__/Maps/NewMap/C/VZ/R5MFLGEC33WCKE8OOE58J6
+/Game/__ExternalActors__/Maps/NewMap/C/CL/BG4CFAKIHXFSQUL9PGY1EX
+/Game/__ExternalActors__/Maps/NewMap/4/LU/P59PLTVDSL5EC6T9WHR98F
+/Game/__ExternalActors__/Maps/NewMap/B/6Q/LTZQIXBTOV538Q7Y4WAWSM
+/Game/__ExternalActors__/Maps/NewMap/2/4K/FS92EAZI2HVQSWCNLV44VB
+[2022.06.14-13.52.27:557][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.14-13.52.27:572][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.14-13.52.27:576][985]LogSavePackage: Moving output files for package: /Game/Maps/NewMap
+[2022.06.14-13.52.27:576][985]LogSavePackage: Moving 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Saved/NewMapC8A1B746413BC8D491B4498DB501217E.tmp' to 'C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Maps/NewMap.umap'
+[2022.06.14-13.52.27:660][985]LogFileHelpers: Saving map 'NewMap' took 12.161
+[2022.06.14-13.52.27:683][985]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.14-13.52.27:683][985]LogContentValidation: Display: Validating ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2022.06.14-13.52.27:683][985]LogContentValidation: Display: Validating ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2022.06.14-13.52.27:683][985]LogContentValidation: Display: Validating ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2022.06.14-13.52.27:683][985]LogContentValidation: Display: Validating ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating ActorFolder /Game/Maps/NewMap.NewMap:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating WorldDataLayers /Game/Maps/NewMap.NewMap:PersistentLevel.WorldDataLayers
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating World /Game/Maps/NewMap.NewMap
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Maps/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating DirectionalLight /Game/Maps/NewMap.NewMap:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating SkyAtmosphere /Game/Maps/NewMap.NewMap:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating SkyLight /Game/Maps/NewMap.NewMap:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Maps/NewMap.NewMap:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating VolumetricCloud /Game/Maps/NewMap.NewMap:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating Landscape /Game/Maps/NewMap.NewMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2022.06.14-13.52.27:684][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2022.06.14-13.52.27:685][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2022.06.14-13.52.27:686][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/NewMap.NewMap:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2022.06.14-13.52.27:687][985]LogContentValidation: Display: Validating HLODLayer /Game/Maps/NewMap_HLOD0_Instancing.NewMap_HLOD0_Instancing
+[2022.06.14-13.52.27:769][987]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.14-13.52.43:174][ 96]LogViewport: Scene viewport resized to 678x582, mode Windowed.
+[2022.06.14-13.52.43:226][ 98]LogViewport: Scene viewport resized to 702x582, mode Windowed.
+[2022.06.14-13.52.43:306][100]LogViewport: Scene viewport resized to 728x582, mode Windowed.
+[2022.06.14-13.52.47:351][372]LogMeshUtilities: Finished distance field build in 28.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 42336 triangles, StaticMesh_HLOD0_Instancing_2
+[2022.06.14-13.52.47:725][387]LogContentBrowser: Verbose: The majority of assets in the view are of type: HLODLayer
+[2022.06.14-13.52.52:757][742]LogAssetEditorSubsystem: Opening Asset editor for HLODLayer /Game/Maps/NewMap_HLOD0_Instancing.NewMap_HLOD0_Instancing
+[2022.06.14-13.52.54:493][851]LogSlate: Window 'NewMap_HLOD0_Instancing' being destroyed
+[2022.06.14-13.52.54:498][851]LogSlate: Window 'NewMap_HLOD0_Instancing' being destroyed
+[2022.06.14-13.52.59:540][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.14-13.52.59:542][224]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/NewMap.NewMap
+[2022.06.14-13.52.59:550][224]Cmd: MAP LOAD FILE="C:/Games/Unreal Projects/Warehouse Wreckage/WarehouseWreckage/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.14-13.52.59:550][224]LightingResults: New page: Lighting Build
+[2022.06.14-13.52.59:550][224]LoadErrors: New page: Loading map: NewMap.umap
+[2022.06.14-13.52.59:612][224]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.14-13.52.59:613][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.14-13.52.59:631][224]MapCheck: New page: Map Check
+[2022.06.14-13.52.59:631][224]LightingResults: New page: Lighting Build
