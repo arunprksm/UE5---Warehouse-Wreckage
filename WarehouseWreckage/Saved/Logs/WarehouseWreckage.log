@@ -4700,3 +4700,112 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.22-10.13.52:696][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_Projects/Maps/mapTest.mapTest:PersistentLevel.StaticMeshActor_UAID_38D547B2CB7BA27101_1977894999
 [2023.03.22-10.13.52:696][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_Projects/Maps/mapTest.mapTest:PersistentLevel.StaticMeshActor_UAID_38D547B2CB7BA27101_1999299000
 [2023.03.22-10.13.52:696][376]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_Projects/Maps/mapTest.mapTest:PersistentLevel.StaticMeshActor_UAID_38D547B2CB7BD87101_1963600503
+[2023.03.22-10.54.04:029][549]LogDerivedDataCache: C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.086 and deleted 0 files with total size 0 MiB. Scanned 7060 files in 6787 folders with total size 114 MiB.
+[2023.03.22-11.54.04:032][611]LogDerivedDataCache: C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.088 and deleted 0 files with total size 0 MiB. Scanned 7060 files in 6787 folders with total size 114 MiB.
+[2023.03.22-12.32.38:913][546]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-12.49.30:191][571]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-12.54.04:055][393]LogDerivedDataCache: C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.109 and deleted 0 files with total size 0 MiB. Scanned 7060 files in 6787 folders with total size 114 MiB.
+[2023.03.22-12.55.14:125][599]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-13.54.04:051][184]LogDerivedDataCache: C:/Users/arunp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.103 and deleted 0 files with total size 0 MiB. Scanned 7060 files in 6787 folders with total size 114 MiB.
+[2023.03.22-14.42.22:271][861]LogViewport: Scene viewport resized to 1248x894, mode Windowed.
+[2023.03.22-14.42.22:317][864]LogViewport: Scene viewport resized to 1276x894, mode Windowed.
+[2023.03.22-14.42.22:354][866]LogViewport: Scene viewport resized to 1321x894, mode Windowed.
+[2023.03.22-14.42.22:675][868]LogViewport: Scene viewport resized to 1363x894, mode Windowed.
+[2023.03.22-14.42.23:146][906]LogViewport: Scene viewport resized to 1358x894, mode Windowed.
+[2023.03.22-14.42.23:184][908]LogViewport: Scene viewport resized to 1350x894, mode Windowed.
+[2023.03.22-14.42.23:228][910]LogViewport: Scene viewport resized to 1342x894, mode Windowed.
+[2023.03.22-14.42.23:268][912]LogViewport: Scene viewport resized to 1338x894, mode Windowed.
+[2023.03.22-14.42.23:308][914]LogViewport: Scene viewport resized to 1331x894, mode Windowed.
+[2023.03.22-14.42.23:349][916]LogViewport: Scene viewport resized to 1323x894, mode Windowed.
+[2023.03.22-14.42.23:388][918]LogViewport: Scene viewport resized to 1313x894, mode Windowed.
+[2023.03.22-14.42.25:683][160]LogViewport: Scene viewport resized to 1315x894, mode Windowed.
+[2023.03.22-14.42.25:722][162]LogViewport: Scene viewport resized to 1318x894, mode Windowed.
+[2023.03.22-14.42.25:756][164]LogViewport: Scene viewport resized to 1323x894, mode Windowed.
+[2023.03.22-14.42.25:792][166]LogViewport: Scene viewport resized to 1331x894, mode Windowed.
+[2023.03.22-14.42.25:828][168]LogViewport: Scene viewport resized to 1344x894, mode Windowed.
+[2023.03.22-14.42.25:865][170]LogViewport: Scene viewport resized to 1356x894, mode Windowed.
+[2023.03.22-14.42.25:905][172]LogViewport: Scene viewport resized to 1364x894, mode Windowed.
+[2023.03.22-14.42.26:103][190]LogViewport: Scene viewport resized to 1361x894, mode Windowed.
+[2023.03.22-14.42.26:130][191]LogViewport: Scene viewport resized to 1358x894, mode Windowed.
+[2023.03.22-14.42.26:165][193]LogViewport: Scene viewport resized to 1342x894, mode Windowed.
+[2023.03.22-14.42.26:200][195]LogViewport: Scene viewport resized to 1306x894, mode Windowed.
+[2023.03.22-14.42.26:226][196]LogViewport: Scene viewport resized to 1297x894, mode Windowed.
+[2023.03.22-14.42.26:611][234]LogViewport: Scene viewport resized to 1300x894, mode Windowed.
+[2023.03.22-14.42.26:645][236]LogViewport: Scene viewport resized to 1304x894, mode Windowed.
+[2023.03.22-14.42.26:679][238]LogViewport: Scene viewport resized to 1317x894, mode Windowed.
+[2023.03.22-14.42.26:720][240]LogViewport: Scene viewport resized to 1350x894, mode Windowed.
+[2023.03.22-14.42.26:762][242]LogViewport: Scene viewport resized to 1380x894, mode Windowed.
+[2023.03.22-14.42.26:862][250]LogViewport: Scene viewport resized to 1379x894, mode Windowed.
+[2023.03.22-14.42.26:900][252]LogViewport: Scene viewport resized to 1377x894, mode Windowed.
+[2023.03.22-14.42.26:931][254]LogViewport: Scene viewport resized to 1365x894, mode Windowed.
+[2023.03.22-14.42.26:964][256]LogViewport: Scene viewport resized to 1338x894, mode Windowed.
+[2023.03.22-14.42.27:004][258]LogViewport: Scene viewport resized to 1309x894, mode Windowed.
+[2023.03.22-14.42.28:036][365]LogViewport: Scene viewport resized to 1313x894, mode Windowed.
+[2023.03.22-14.42.28:081][367]LogViewport: Scene viewport resized to 1336x894, mode Windowed.
+[2023.03.22-14.42.28:119][369]LogViewport: Scene viewport resized to 1358x894, mode Windowed.
+[2023.03.22-14.42.28:325][389]LogViewport: Scene viewport resized to 1351x894, mode Windowed.
+[2023.03.22-14.42.28:365][391]LogViewport: Scene viewport resized to 1323x894, mode Windowed.
+[2023.03.22-14.42.28:393][392]LogViewport: Scene viewport resized to 1309x894, mode Windowed.
+[2023.03.22-14.42.30:569][622]LogViewport: Scene viewport resized to 1313x894, mode Windowed.
+[2023.03.22-14.42.30:662][630]LogViewport: Scene viewport resized to 1319x894, mode Windowed.
+[2023.03.22-14.42.30:700][632]LogViewport: Scene viewport resized to 1325x894, mode Windowed.
+[2023.03.22-14.42.30:738][634]LogViewport: Scene viewport resized to 1331x894, mode Windowed.
+[2023.03.22-14.42.30:779][636]LogViewport: Scene viewport resized to 1334x894, mode Windowed.
+[2023.03.22-14.42.30:819][638]LogViewport: Scene viewport resized to 1337x894, mode Windowed.
+[2023.03.22-14.42.30:861][640]LogViewport: Scene viewport resized to 1338x894, mode Windowed.
+[2023.03.22-14.42.30:898][642]LogViewport: Scene viewport resized to 1344x894, mode Windowed.
+[2023.03.22-14.42.30:931][644]LogViewport: Scene viewport resized to 1346x894, mode Windowed.
+[2023.03.22-14.42.30:970][646]LogViewport: Scene viewport resized to 1349x894, mode Windowed.
+[2023.03.22-14.42.31:010][648]LogViewport: Scene viewport resized to 1355x894, mode Windowed.
+[2023.03.22-14.42.31:056][650]LogViewport: Scene viewport resized to 1367x894, mode Windowed.
+[2023.03.22-14.42.31:090][651]LogViewport: Scene viewport resized to 1372x894, mode Windowed.
+[2023.03.22-14.42.31:129][653]LogViewport: Scene viewport resized to 1374x894, mode Windowed.
+[2023.03.22-14.42.31:190][657]LogViewport: Scene viewport resized to 1376x894, mode Windowed.
+[2023.03.22-14.42.31:226][659]LogViewport: Scene viewport resized to 1377x894, mode Windowed.
+[2023.03.22-14.42.31:258][661]LogViewport: Scene viewport resized to 1383x894, mode Windowed.
+[2023.03.22-14.42.31:417][675]LogViewport: Scene viewport resized to 1370x894, mode Windowed.
+[2023.03.22-14.42.31:454][677]LogViewport: Scene viewport resized to 1337x894, mode Windowed.
+[2023.03.22-14.42.31:494][679]LogViewport: Scene viewport resized to 1323x894, mode Windowed.
+[2023.03.22-14.42.31:540][681]LogViewport: Scene viewport resized to 1320x894, mode Windowed.
+[2023.03.22-14.42.31:586][683]LogViewport: Scene viewport resized to 1312x894, mode Windowed.
+[2023.03.22-14.42.31:646][687]LogViewport: Scene viewport resized to 1302x894, mode Windowed.
+[2023.03.22-14.42.31:686][689]LogViewport: Scene viewport resized to 1300x894, mode Windowed.
+[2023.03.22-14.42.31:850][704]LogViewport: Scene viewport resized to 1297x894, mode Windowed.
+[2023.03.22-14.42.31:888][706]LogViewport: Scene viewport resized to 1290x894, mode Windowed.
+[2023.03.22-14.42.31:926][708]LogViewport: Scene viewport resized to 1261x894, mode Windowed.
+[2023.03.22-14.42.31:967][710]LogViewport: Scene viewport resized to 1237x894, mode Windowed.
+[2023.03.22-14.42.32:102][721]LogViewport: Scene viewport resized to 1233x894, mode Windowed.
+[2023.03.22-14.42.32:137][723]LogViewport: Scene viewport resized to 1282x894, mode Windowed.
+[2023.03.22-14.42.32:176][725]LogViewport: Scene viewport resized to 1354x894, mode Windowed.
+[2023.03.22-14.42.32:264][732]LogViewport: Scene viewport resized to 1364x894, mode Windowed.
+[2023.03.22-14.42.32:301][734]LogViewport: Scene viewport resized to 1317x894, mode Windowed.
+[2023.03.22-14.42.32:340][736]LogViewport: Scene viewport resized to 1210x894, mode Windowed.
+[2023.03.22-14.42.32:380][738]LogViewport: Scene viewport resized to 1170x894, mode Windowed.
+[2023.03.22-14.42.32:417][740]LogViewport: Scene viewport resized to 1213x894, mode Windowed.
+[2023.03.22-14.42.32:485][746]LogViewport: Scene viewport resized to 1451x894, mode Windowed.
+[2023.03.22-14.42.32:549][748]LogViewport: Scene viewport resized to 1494x894, mode Windowed.
+[2023.03.22-14.42.32:825][764]LogViewport: Scene viewport resized to 1491x894, mode Windowed.
+[2023.03.22-14.42.32:864][766]LogViewport: Scene viewport resized to 1468x894, mode Windowed.
+[2023.03.22-14.42.32:905][768]LogViewport: Scene viewport resized to 1430x894, mode Windowed.
+[2023.03.22-14.42.32:946][770]LogViewport: Scene viewport resized to 1401x894, mode Windowed.
+[2023.03.22-14.42.32:986][772]LogViewport: Scene viewport resized to 1390x894, mode Windowed.
+[2023.03.22-14.42.33:027][774]LogViewport: Scene viewport resized to 1379x894, mode Windowed.
+[2023.03.22-14.42.33:076][776]LogViewport: Scene viewport resized to 1366x894, mode Windowed.
+[2023.03.22-14.42.33:463][815]LogViewport: Scene viewport resized to 1374x894, mode Windowed.
+[2023.03.22-14.42.33:520][819]LogViewport: Scene viewport resized to 1394x894, mode Windowed.
+[2023.03.22-14.42.33:562][821]LogViewport: Scene viewport resized to 1399x894, mode Windowed.
+[2023.03.22-14.42.33:874][851]LogViewport: Scene viewport resized to 1397x894, mode Windowed.
+[2023.03.22-14.42.33:905][852]LogViewport: Scene viewport resized to 1392x894, mode Windowed.
+[2023.03.22-14.48.13:480][268]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.22-14.48.13:496][268]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.22-14.48.36:271][154]LogShaderCompilers: Display: ================================================
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: Total job queries 215, among them cache hits 114 (53.02%)
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: Tracking 101 distinct input hashes that result in 83 distinct outputs (82.18%)
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: RAM used: 0.86 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.14%
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.22-14.48.36:273][154]LogShaderCompilers: Display: ================================================
+[2023.03.22-14.49.02:199][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
